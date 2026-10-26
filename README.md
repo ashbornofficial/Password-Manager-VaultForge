@@ -1,3 +1,8 @@
+"Download that zip and extract to use."
+
+Demo Video - Soon (2 day left)
+
+
 # VaultForge 🔐
 
 **A private, local-first password manager and secure password generator for Windows.**
